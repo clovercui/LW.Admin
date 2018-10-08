@@ -84,12 +84,6 @@ if ($host === '===host===') {
 	die('根目录下 /conf/database.php 中参数不正确，请自行修改');
 }
 
-// $host = '47.52.158.16';
-// $port = '3306';
-// $username = 'remote';
-// $password = 'remote';
-// $database = 'lw_admin';
-
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => $host.':'.$port,
