@@ -10,7 +10,19 @@ LW.Admin 后台管理系统是我基于工作中总结出来的,具有线上环�
 
 #### 安装教程
 
-1. 使用 ./install.php 实现项目一键初始化安装
+> 使用 ./install.php 实现项目一键初始化安装
+
+![第一步](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step1.png)
+
+![第二步](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step2.png)
+
+![第三步](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step3.png)
+
+![第四步](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step4.png)
+
+![第五步](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step5.png)
+
+![完成](https://github.com/liu1013269528/LW.Admin/raw/master/tutorial/step6.png)
 
 #### 使用说明
 
